@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Porsche</title>
+    <link href="./main.css" rel="stylesheet">
+</head>
+<body>
+    <div id="titulo">
+        <h1 >Porsche</h1>
+    </div>
+    <div id="GT3-RS">
+       <img style="display: inline-block;" src="./image 1.png" width="700PX">
+
+
+
+
+
+       
+       <p id="pp">GT3 RS Os atletas sabem: o desempenho máximo exige mais do que condições perfeitas e sorte. A vontade de tornar-se mais rápido e forte a cada sessão de treino é decisiva. Questionando tudo, especialmente a si mesmo. O maior desafio é permanecer imbatível. Com essa atitude, a Porsche continua ultrapassando os limites do que é possível. Para aumentar ainda mais o desempenho nos circuitos - graças à incrível downforce e à leveza de toda a estrutura. Experimente o novo 911 GT3 RS em sua melhor forma.</p>
+    </div> 
+    <div id="ajuste totalmente" style="margin-top: 180PX;">
+        <img width="100%" src="./image 2.png">
+        <p style="font-size: 300%; color:aliceblue;  ">Ajuste totalmente automático do difusor dianteiro e do aerófolio para veloci-
+
+            dades mais alta nas curvas.  </p>
+    </div>
+    <div id="aoc"> 
+        <img width="850px" src="./image 3.png" style="display: inline-block;">
+        <p style="display: inline-block;color: aliceblue; float: right; font-size: 52px; width: 50%;">
+            Pacote Clubsport, disponivel oficialmente 
+            
+            sem custo adicional, consiste em uma gaio-
+            
+            la de proteção e bancos conchas. </p>
+    </div>
+    <div id="dov">
+        <img src="image 4.png" width="75%"> 
+        
+    </div>   
+<div class="container">
+    <img src="image 5.png">
+    <p style="margin-left: 20px;"></p> Taycan GTS Totalmente elétrico, o novo Taycan GTS agrega agora
+
+        emoções ainda mais intensas à experiência de direção Porsche.
+       
+        É quase impossível obter mais fascinação com 3 letras. Purístico,
+       
+        expressivo, atemporal: forças expressivas que literalmente
+       
+        permeiam o Taycan – adicionalmente enfatizadas pela flyline 
+       
+       dinâmica e plana. Mesmo no que diz respeito ao espaço livre, ele
+       
+        não fica para trás, mas oferece conforto exclusivo para 4 pessoas
+       
+        além do porta-malas traseiro e dianteiro.</p>           
+</div>
+
+<div id=vrum>
+    <img src="image 6.png" width="100%">
+    <p>      Porque não estamos pensando apenas no produto, mas também no ambiente em que ele é utilizado, a Porsche está 
+
+        determinada no desenvolvimento de uma infraestrutura de carregamento a nível nacional: os dois com suas próprias soluções e
+        
+         juntamento com IONITY e "Electrify America" - quem estabeleceu uma extensiva malha de carregadores rápidos ao longo de
+        
+         rodovias na Europa, assim como nos Estados Unidos e no Canadá. o Porsche Charging Service entrega aos consumidores 
+        
+        da Porsche Taycan tres anos de acesso gratuiro a parceiros específicos, onde eles podem carregar seu veículo. Assim como a
+        
+         malha de carregadores de rápida velocidade, milhares de opções de carregamento estão disponíveis pela Porsche Charging
+        
+         Service. Em adição, existem as estações de carga da Porsche Destination Charging Network em locais selecionados, como 
+        
+        hoteis luxuosos e restaurantes.</p>
+</div>
+
+<div class="container">
+    <img src="2020_porsche_taycan_47_2560x1440.jpg" width="43%"> 
+    <p style="margin-left: 20px;"> Mais um destaque é a integração perfeita do Apple Music diretamente
+
+        ao PCM. Toque simplesmente no ícone do Apple Music para fazer 
+       
+       streaming de 100 milhões de faixas sem anúncio e playlists para 
+       
+       qualquer espírito de direção. Ou crie a partir da música que está 
+       
+       tocando no rádio sua própria emissora personalizada no Apple Music</p>
+</div>
+
+<div id="final"> 
+    <img src="image 8.png" width="100%">
+</div>
+
+</body>
+</html> 
