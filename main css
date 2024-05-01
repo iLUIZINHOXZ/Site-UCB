@@ -1,0 +1,50 @@
+#titulo{
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: xx-large;
+}
+body{
+    background-color: black;
+}
+#pp{color:aliceblue;
+display: inline-block;
+width: 60%;
+float: right;
+font-size:180%;}
+
+#dov{
+    display: flex;  
+    justify-content: center;
+    margin-top: 5%;
+}
+
+#aoc{
+    margin-top: 10%;
+}
+
+.container {
+    margin-top: 7%;
+    display: flex;
+    font-size: 40px;
+    color: aliceblue;
+    line-height: 65px;
+    margin-right:10px;
+
+}
+
+#pp{
+    font-size: 43px;
+    }
+
+#vrum{
+    margin-top: 6%;
+    font-style: normal;
+    font-size: 32px;
+    color: aliceblue;
+    line-height: 130%;
+}
+
+#int{
+    margin-top: 15%;
+}
